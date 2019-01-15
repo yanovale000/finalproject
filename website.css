@@ -1,3 +1,8 @@
 body {
 background-image: url("https://img.freepik.com/free-photo/dirty-pattern-paint-room-block_1203-5709.jpg?size=338&ext=jpg")
 }
+
+p {
+  text-decoration: bold;
+  text-decoration-color: blue;
+}
