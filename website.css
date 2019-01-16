@@ -10,3 +10,8 @@ p {
 div.a {
   font-size: 150%;
 }
+
+
+a:link { 
+  background-color: pink;
+}
