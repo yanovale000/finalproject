@@ -3,6 +3,6 @@ background-image: url("https://img.freepik.com/free-photo/dirty-pattern-paint-ro
 }
 
 p {
-  text-decoration: bold;
+  text-decoration: underline;
   text-decoration-color: blue;
 }
