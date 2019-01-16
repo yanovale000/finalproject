@@ -6,3 +6,7 @@ p {
   text-decoration: underline;
   text-decoration-color: blue;
 }
+
+div.a {
+  font-size: 150%;
+}
