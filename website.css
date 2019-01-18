@@ -15,3 +15,14 @@ div.a {
 a:link { 
   background-color: yellow;
 }
+
+
+
+ul {
+  list-style-image: url('sqpurple.gif');
+}
+
+
+ul.a {
+  list-style-type: circle;
+}
